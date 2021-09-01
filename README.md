@@ -2,7 +2,8 @@
 
 # Kalvin's Portfolio Project
 
-A porfolio about myself and the past experience and projects to show off to my potential employers
+My very first version of my portfolio!
+This is not my active portfolio, but just used to show case on my actual portfolio.
 
 </div>
 
