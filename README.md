@@ -4,15 +4,16 @@
 
 This was my very first portfolio!
 Please note that this is an old portfolio and not in use.
+
+</div>
+
 👉 [Old Portfolio](https://kalvintangv1.netlify.app/)
 
 👉 [New Portfolio](https://kalvintang.me/)
 
-</div>
-
 #### Primary technology:
 
--   React: <img align="auto" alt="React" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="auto" alt="React" width="7%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 ### Figma
 
