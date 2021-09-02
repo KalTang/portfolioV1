@@ -1,9 +1,12 @@
 <div align="center">
 
-# Kalvin's Portfolio Project
+# Kalvin's Portfolio
 
-My very first version of my portfolio!
-This is not my active portfolio, but just used to show case on my actual portfolio.
+This was my very first portfolio!
+Please note that this is an old portfolio and not in use.
+👉 [Old Portfolio](https://kalvintangv1.netlify.app/)
+
+👉 [New Portfolio](https://kalvintang.me/)
 
 </div>
 
