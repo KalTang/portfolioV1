@@ -7,9 +7,8 @@ Please note that this is an old portfolio and not in use.
 
 </div>
 
-👉 [Old Portfolio](https://kalvintangv1.netlify.app/)
+👉 Visit live link [here!](https://kalvintangv1.netlify.app/)
 
-👉 [New Portfolio](https://kalvintang.me/)
 
 #### Primary technology:
 
